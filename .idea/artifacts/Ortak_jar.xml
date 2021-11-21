@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ortak:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ortak_jar</output-path>
+    <root id="archive" name="Ortak.jar">
+      <element id="module-output" name="Ortak" />
+    </root>
+  </artifact>
+</component>
