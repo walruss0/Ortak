@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ortak">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Ortak_jar/Ortak.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
