@@ -8,6 +8,7 @@ public class OrtakTest {
         System.out.println(Ortak.buyukHarfeCevir(kelime));
     }
 
+
     public void testKucukHarfeCevir()
     {
         String kelime = "IĞDIRLI ispanaklar ÖİĞÜŞIÇ";
